@@ -14,3 +14,8 @@
 
 # Check 
 https://moonbase.moonscan.io/ 
+
+# Verify
+https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify 
+
+Example: `npx hardhat verify 0x8f1339Aa6e140b70497D9B48cd0fe7168CB0E5a7 "0xE6908294fE2C9D22e50daA50177D9fd15a93B952"`
