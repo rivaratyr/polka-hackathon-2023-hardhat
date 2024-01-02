@@ -6,7 +6,7 @@ require('dotenv').config();
 const privateKey = process.env.PRIVATE_KEY;
 
 module.exports = {
-  solidity: '0.8.19',
+  solidity: '0.8.20',
   defaultNetwork: 'moonbase',
   networks: {
     moonbase: {
